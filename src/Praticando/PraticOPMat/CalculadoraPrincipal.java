@@ -1,5 +1,4 @@
 package Praticando.PraticOPMat;
-import java.util.Scanner;
 
 public class CalculadoraPrincipal {
     public static void CalcOperacao(OperacaoMat o, double x,double y){
